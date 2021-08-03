@@ -3,6 +3,9 @@ React Native Application that allows users to virtually run, walk or cycle a sel
 
 **NOTE:** The 'node_modules' folder has been deleted from this repositry to free up space. Check the 'Install' section for the list of packages/modules that are required to run the application 
 
+## Application Demonstration
+Video Link - https://www.youtube.com/watch?v=xYiqavLFaRQ
+
 ## Install
 
 `npm install`
