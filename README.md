@@ -1,4 +1,5 @@
 # Middle-Earth-Journeys
+![Combined1IT2](https://user-images.githubusercontent.com/32711675/128638578-5645c64f-9e22-4d84-a0ca-7fb43f3d2c7d.png)
 
 ## Application Demonstration
 Video Link - https://www.youtube.com/watch?v=xYiqavLFaRQ
@@ -23,8 +24,6 @@ It is important that the app goes beyond static pages but instead makes use of m
 
 ## Overview
 React Native Application that allows users to virtually run, walk or cycle a selection of famous middle earth quests.
-
-![Combined1IT2](https://user-images.githubusercontent.com/32711675/128638578-5645c64f-9e22-4d84-a0ca-7fb43f3d2c7d.png)
 
 Middle Earth Journeys is an exercise companion app that aims to encourage users to get out and partake in physical activity. It provides a more engaging way for less motivated individuals to get fit than conventional running apps by allowing users to follow in the footsteps of J. R. R. Tolkien’s Middle Earth heroes. Users can select from two different quest options and explore the land of Middle Earth whilst walking, running, or cycling. 
 
