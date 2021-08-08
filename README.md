@@ -30,7 +30,7 @@ Middle Earth Journeys is an exercise companion app that aims to encourage users 
 
 The application tracks user movement giving performance metrics such as distance covered, average pace and time spent. Then, depending on the difficulty the user selected, it calculates how far through the quest and whereabouts in Middle Earth they are. The quests are long and therefore are designed to be tackled in ‘sections’, each time the user resumes a quest, a section is created. When they pause the quest the section results (distance covered, time etc) are added to the total quest statistics. If they have travelled the required distance in middle earth, they will discover one of a plethora of landmarks. These landmarks are accompanied by videos, images and descriptive text which informs users about the location.
 
-**NOTE:** The 'node_modules' folder has been deleted from this repositry to free up space. Check the 'Install' section for the list of packages/modules that are required to run the application 
+**NOTE:** The 'node_modules' folder has been deleted from this repositry to free up space. Check the 'Install' section for the list of packages/modules that are required to run the application. As well as this the firebase collection that houses user information has been taken offline so requests to firebase will have to be manually changed to a new collection.  
 
 ## Install
 
