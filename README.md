@@ -1,6 +1,8 @@
 # Middle-Earth-Journeys
 
-**NOTE:** The 'node_modules' folder has been deleted from this repositry to free up space. Check the 'Install' section for the list of packages/modules that are required to run the application. As well as this, the firebase collection that houses user and quest information has been taken offline so requests to firebase will have to be manually changed to a new collection.  
+**NOTE:** The 'node_modules' folder has been deleted from this repositry to free up space. Check the 'Install' section for the list of packages/modules that are required to run the application.
+
+As well as this, the firebase collection that housed user and quest information has been taken offline so any requests to firebase will have to be manually altered to a new collection.  
 
 ![Combined1IT2](https://user-images.githubusercontent.com/32711675/128638578-5645c64f-9e22-4d84-a0ca-7fb43f3d2c7d.png)
 
